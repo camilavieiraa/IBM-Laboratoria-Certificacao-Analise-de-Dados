@@ -1,4 +1,4 @@
-# Projetos criados durante a Certificação de Análise de Dados | IBM | Laboratoria
+# Projetos realizados durante a Certificação de Análise de Dados | IBM | Laboratoria
 
 **Sobre a Certificação**
 
